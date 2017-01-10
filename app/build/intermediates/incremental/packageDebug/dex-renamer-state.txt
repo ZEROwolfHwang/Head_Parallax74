@@ -1,0 +1,7 @@
+#Tue Jan 10 18:01:48 CST 2017
+base.0=I\:\\My_Test\\Head_Parallax74\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a0a0510ca4372a1ce4bdd99ac16758e9a089d09f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=I\:\\My_Test\\Head_Parallax74\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_823f6316ac323c785007dd63dd5166ca6d2fe4f7\\classes.dex
+base.1=I\:\\My_Test\\Head_Parallax74\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_823f6316ac323c785007dd63dd5166ca6d2fe4f7
+file.0=I\:\\My_Test\\Head_Parallax74\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a0a0510ca4372a1ce4bdd99ac16758e9a089d09f\\classes.dex

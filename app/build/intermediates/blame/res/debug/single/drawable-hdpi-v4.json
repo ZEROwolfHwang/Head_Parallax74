@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "I:\\My_Test\\Head_Parallax74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\low.jpg",
+        "source": "I:\\My_Test\\Head_Parallax74\\app\\src\\main\\res\\drawable-hdpi\\low.jpg"
+    },
+    {
+        "merged": "I:\\My_Test\\Head_Parallax74\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\parallax_img.jpg",
+        "source": "I:\\My_Test\\Head_Parallax74\\app\\src\\main\\res\\drawable-hdpi\\parallax_img.jpg"
+    }
+]
